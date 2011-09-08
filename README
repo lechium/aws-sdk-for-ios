@@ -1,7 +1,10 @@
 This fork solely exists to make it easier to build this project without having to set up your own xcodeproj.
 
-I make the minor tweaks necessary to get it to build (the build errors for missing files can be fixed simply by making a copy of AmazonServiceRequest.h and putting it in the src folder's root path.
+I make the minor tweaks necessary to get it to build (the build errors for missing files can be fixed simply by making 
+a copy of AmazonServiceRequest.h and putting it in the src folder's root path, and moving the src folder into the new 
+AWSiOSFramework folder.
 
-i also added a Run Script target that /should/ create the necessary framework folder layout and open it for you when complete.
+i also added a Run Script target that /should/ create the necessary framework folder layout and open it for you when 
+complete.
 
 enjoy!
