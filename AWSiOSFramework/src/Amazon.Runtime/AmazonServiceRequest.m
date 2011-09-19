@@ -14,7 +14,7 @@
  */
 
 
-#import "AmazonServiceRequest.h"
+	//#import "AmazonServiceRequest.h"
 #import "AmazonAuthUtils.h"
 
 @implementation AmazonServiceRequest
