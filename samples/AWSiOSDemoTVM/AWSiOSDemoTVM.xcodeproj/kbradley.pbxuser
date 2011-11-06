@@ -1,0 +1,119 @@
+// !$*UTF8*$!
+{
+	899C9A3D1466634700FFA4A8 /* AWSiOSDemoTVM */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = AWSiOSDemoTVM;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	899C9A4D1466635300FFA4A8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D0B715B913E73AC2006220BB /* Constants.h */;
+		name = "Constants.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 299;
+		vrLoc = 0;
+	};
+	899C9A4E1466635300FFA4A8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D0B715B913E73AC2006220BB /* Constants.h */;
+		name = "Constants.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 908;
+		vrLoc = 581;
+	};
+	899C9A531466635300FFA4A8 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	899C9A541466635300FFA4A8 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	D00F7D2A13E737B900C72263 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 899C9A3D1466634700FFA4A8 /* AWSiOSDemoTVM */;
+		activeTarget = D00F7D3213E737B900C72263 /* AWSiOSDemoTVM */;
+		codeSenseManager = 899C9A541466635300FFA4A8 /* Code sense */;
+		executables = (
+			899C9A3D1466634700FFA4A8 /* AWSiOSDemoTVM */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					652,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 342254407;
+			PBXWorkspaceStateSaveDate = 342254407;
+		};
+		perUserProjectItems = {
+			899C9A4D1466635300FFA4A8 /* PBXTextBookmark */ = 899C9A4D1466635300FFA4A8 /* PBXTextBookmark */;
+			899C9A4E1466635300FFA4A8 /* PBXTextBookmark */ = 899C9A4E1466635300FFA4A8 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 899C9A531466635300FFA4A8 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	D00F7D3213E737B900C72263 /* AWSiOSDemoTVM */ = {
+		activeExec = 0;
+		executables = (
+			899C9A3D1466634700FFA4A8 /* AWSiOSDemoTVM */,
+		);
+	};
+	D0B715B913E73AC2006220BB /* Constants.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {830, 598}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{581, 908}";
+		};
+	};
+}

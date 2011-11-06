@@ -1,0 +1,128 @@
+// !$*UTF8*$!
+{
+	32C6BB5B1466481100850233 /* AWSiOSDemoTVMIdentity */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = AWSiOSDemoTVMIdentity;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	32C6BB6A1466483300850233 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	32C6BB6B1466483300850233 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	32C6BB70146649A500850233 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D095836A13E878CF009E4171 /* Constants.m */;
+		name = "Constants.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 260;
+		vrLoc = 0;
+	};
+	32C6BB71146649A500850233 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D095836A13E878CF009E4171 /* Constants.m */;
+		name = "Constants.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 260;
+		vrLoc = 0;
+	};
+	D02B6C4B13E8783D000A4055 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 32C6BB5B1466481100850233 /* AWSiOSDemoTVMIdentity */;
+		activeTarget = D02B6C5313E8783D000A4055 /* AWSiOSDemoTVMIdentity */;
+		codeSenseManager = 32C6BB6B1466483300850233 /* Code sense */;
+		executables = (
+			32C6BB5B1466481100850233 /* AWSiOSDemoTVMIdentity */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					364,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 342247443;
+			PBXWorkspaceStateSaveDate = 342247443;
+		};
+		perUserProjectItems = {
+			32C6BB70146649A500850233 /* PBXTextBookmark */ = 32C6BB70146649A500850233 /* PBXTextBookmark */;
+			32C6BB71146649A500850233 /* PBXTextBookmark */ = 32C6BB71146649A500850233 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 32C6BB6A1466483300850233 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	D02B6C5313E8783D000A4055 /* AWSiOSDemoTVMIdentity */ = {
+		activeExec = 0;
+		executables = (
+			32C6BB5B1466481100850233 /* AWSiOSDemoTVMIdentity */,
+		);
+	};
+	D095836913E878CF009E4171 /* Constants.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1405, 976}}";
+			sepNavSelRange = "{1768, 0}";
+			sepNavVisRange = "{0, 1768}";
+			sepNavWindowFrame = "{{252, 219}, {1464, 1089}}";
+		};
+	};
+	D095836A13E878CF009E4171 /* Constants.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {542, 640}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 260}";
+			sepNavWindowFrame = "{{84, 261}, {1464, 1089}}";
+		};
+	};
+}
